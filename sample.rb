@@ -10,4 +10,8 @@ module GitProject
   def name
   	["GitProject"]
   end
+
+  def hostname
+    "locahost.localdomain"
+  end
 end
