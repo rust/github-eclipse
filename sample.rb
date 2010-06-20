@@ -6,4 +6,8 @@ module GitProject
   def authors
 	["Shin-ichiro OGAWA"]
   end
+  
+  def name
+  	["GitProject"]
+  end
 end
